@@ -24,3 +24,5 @@ Whatsapp number : **+967700319683, +967772031299**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-binidohri&show_icons=true&locale=en&layout=compact" alt="ali-binidohri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali-binidohri&show_icons=true&locale=en" alt="ali-binidohri" /></p>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
