@@ -2,12 +2,15 @@
 <h3 align="center">Full Stack Developer { [ Back-end, Front-end ] } from Yemen </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-binidohri&label=Profile%20views&color=0e75b6&style=flat" alt="ali-binidohri" /> </p>
-
+- 🌱 I'm from Yemen - Hadramout - Mukalla city
 - I`ve been using Ruby on Rails since 2022. **Ruby on Rails**
-
+- 💬 Also I use Python with **odoo**
+- 😄 I previously worked for at Sonod for Business and IT Solutions
 - My Accounts [https://linktr.ee/ali_bindohri](https://linktr.ee/ali_bindohri)
 
 - 📫 How to reach me **bindohriali@gmail.com**
+Phone numbers : **+967772031299 , +967734244662, +967700319683**
+Whatsapp number : **+967700319683, +967772031299**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
