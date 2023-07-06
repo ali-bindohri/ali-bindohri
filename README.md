@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Bin_Dohri</h1>
-<h3 align="center">Full Stack Developer { [ Back-end, Front-end ] } from Yemen </h3>
+<h3 align="center">Front-End Developer from Yemen </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-binidohri&label=Profile%20views&color=0e75b6&style=flat" alt="ali-binidohri" /> </p>
 <p>- 🌱 I'm from Yemen - Hadramout - Mukalla city</p>
