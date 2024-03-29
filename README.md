@@ -10,7 +10,7 @@
 
 <h5 align="left">A passionate frontend developer from Yemen 🔭 I’m currently working on JSR HR<br>- seedling I'm from Yemen - Hadramout - Mukalla city<br>- smile I previously worked for at Sonod for Business and IT Solutions<br>📫 How to reach me bindohriali@gmail.com Phone numbers : +967772031299 , +967734244662, +967700319683 Whatsapp number : +967700319683, +967772031299<br>- My Accounts https://linktr.ee/ali_bindohri</h5>
 <br>
--my Profile page: https://profile-page-six-wine.vercel.app/
+-my Profile page: https://ali-bindohri-profile-page-six-wine.vercel.app/
 
 ###
 
