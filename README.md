@@ -89,7 +89,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/ali-bindohri/ali-bindohri/output/snake.svg" alt="Snake animation" />
-
+<img src="https://github.com/ali-bindohri/ali-bindohri/blob/main/profile-snake-contrib/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
